@@ -1,0 +1,43 @@
+Add or remove a payment method
+
+You can make payments with a debit card or pre-authorized debit from a bank account. For some purchases, you can also pay by credit card for the down payment and installments.
+  You can add or remove a payment method anytime at affirm.ca or in the Affirm app without making a payment. Here’s how:
+  Add a payment method
+At affirm.ca:
+Sign in to your Affirm account.
+If you’re on a computer, choose the profile icon at the top right of the page.
+If you’re on your phone, tap the menu icon at the top left of the page.
+Choose 'Settings'.
+Scroll down to 'Payment methods'.
+Choose the '+' icon.
+Choose the type of payment method from the drop down list.
+Enter the required information and choose ‘Continue’.
+  In the Affirm app:
+Sign in to your Affirm account.
+Tap the profile icon at the bottom right of the screen.
+Tap ‘Payment methods’.
+Tap ‘Add New Payment Method’.
+Choose the type of payment method from the drop down list.
+Enter the required information and tap ‘Continue’.
+  Remove a payment method
+At affirm.ca:
+Sign in to your Affirm account.
+If you’re on a computer, choose the profile icon at the top right of the page.
+If you’re on your phone, tap the menu icon at the top left of the page.
+Choose ‘Settings’.
+Scroll down to ‘Payment methods’.
+Choose the payment method you want to remove.
+Choose ‘Remove’.
+If the payment method you want to remove is currently set up on AutoPay, you can choose ‘Replace payment method’ to replace it with a different payment method and continue making automatic payments.
+Choose ‘Remove’ again to confirm.
+  In the Affirm app:
+Sign in to your Affirm account.
+Tap the profile icon at the bottom right of the screen.
+Tap ‘Payment methods’.
+Choose the payment method you want to remove.
+Tap ‘Remove’.
+If the payment method you want to remove is currently set up on AutoPay, you can choose ‘Replace payment method’ to replace it with a different payment method and continue making automatic payments.
+Tap ‘Remove’ again to confirm.
+
+For more information about how to make a payment, check here.
+ 

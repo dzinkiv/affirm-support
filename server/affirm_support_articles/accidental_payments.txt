@@ -1,0 +1,24 @@
+Accidental payments
+
+Online payment
+Please contact us below to request a refund for any online payment you didn’t mean to make. Payment reversal requests must be made no more than 3 calendar days after you submit the payment.
+  We’ll reverse the full amount of the payment after it finishes processing. You should see the funds reflected in your bank account in 3-10 business days, depending on your financial institution.
+  Keep in mind that we are not always able to reverse a payment due to limitations with payment processors and banking institutions. If we are unable to reverse your payment, we will let you know.
+  Very important side note: We can only give you a full refund, not a partial one. If you’re close to your payment due date, a refund may put you at risk for a late payment.
+
+
+Overpayments
+If you overpaid your total purchase balance, we’ll automatically refund the payment method you have on file.
+  If you only overpaid a single monthly bill, that extra amount will go toward your total purchase balance. Alternatively, you can request a payment refund below.
+
+
+Scheduled payment
+You can cancel a scheduled payment up to 24 hours before the payment date.
+Sign in to your Affirm account.
+Navigate to Pay.
+Select the purchase.
+Look for the scheduled payment, then select Cancel payment.
+
+
+AutoPay
+You can stop an automatic payment up to 24 hours before it’s made. Learn more.

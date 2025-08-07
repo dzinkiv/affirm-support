@@ -1,0 +1,9 @@
+No order confirmation
+
+If you didn’t receive an order confirmation, this probably means your order wasn't fully processed by the store. To make sure, look for the loan in your Affirm account. If you don't see the loan, your order didn't go through. 
+
+If your order wasn't processed and you made a down payment, it usually won’t be processed either. However, you might see a pending hold for the down payment in your account (the one you used to make the down payment). This doesn’t mean that the down payment went through, and you’ll usually see the hold drop from your account within 7–10 business days.
+
+If you request another loan, wait for the store's confirmation screen before you leave the website. This will help ensure your order goes through.
+
+ 

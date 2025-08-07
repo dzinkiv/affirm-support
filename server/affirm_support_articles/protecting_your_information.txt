@@ -1,0 +1,25 @@
+Protecting your information
+
+How We Protect You
+  Protecting your data is our top priority. We meet all industry standards for protecting your personal information. Our policies safeguard the management (including collection, use, maintenance, disclosure and disposal) of your information. We use a variety of methods to keep our network secure and your data safe.
+  Security Checks
+Affirm uses several security features to help protect your accounts from unauthorized access. You may be asked to provide additional verification of your identity if we detect changes in your online sign-on related to your device, location, or other factors, or if you are attempting an online transaction that requires added security. The protection of your account and identity is important to us and we continue to strive to enhance our security to protect you against fraud. 
+  Multi-Factor Authentication
+One way to help keep your information safe is using multi-factor authentication. This adds another level of security by requiring a different piece of information in addition to your password. These secondary factors could be a security question, a code sent to your phone or even your fingerprint.
+    How You Can Protect Yourself
+  Safeguard your online banking credentials, including username and password, by keeping them private and secure. Make sure your password is difficult to guess - create unique sign-in credentials that are different from those used for social networking or other online accounts.
+
+Important: Affirm will never ask you for your PIN or password by calling you or by sending you an email. 
+  Check for Secure Sites 
+Look for an “HTTPS” or a lock symbol next to the site’s URL. In some browsers, the address bar will also turn green. This indicates it’s an encrypted, safe connection.
+  Stay Safe on Public Wi-Fi 
+Don’t access personal accounts on unsecured Wi-Fi networks and pass on making any purchases until you have a private connection to help prevent payment card fraud. When using public or shared computers (like in a library), be aware of your surroundings, including people who could look at your computer screen. Do not select the “remember me” feature for your username and password. 
+  Watch for Malware 
+Malware is malicious software that is intended to damage or disable computers and computer systems. Your computer can potentially be infected when you open an attachment, click on a pop-up ad, or download a game, song, screensaver, or other application. Only download programs and files from legitimate sources. It is not uncommon for malware to be embedded within an otherwise legitimate program or file when advertised for free through file-sharing or other sources not endorsed by the original manufacturer.
+  Stay Up to Date
+Fraudsters use social media to target you for your personal information. Never share personal, banking, or password information on these platforms.
+  Be Vigilant on Social Media
+Keep your software updated with the latest version and install manufacturer-provided patches. This is especially important for operating systems, Web browsers, and security software, but also applies to all programs.
+    Privacy Policy
+  You can view more information in our Privacy Policy. 
+ 

@@ -1,0 +1,7 @@
+Affirm App Features
+
+We’re excited to announce that the Affirm app now has a Home Tab where you can find partner stores by simply typing the store’s name into the search bar.
+  Tap on the search result to view the store’s details page and learn more about what they offer. To visit the store’s website and start purchasing with Affirm, tap ‘Shop Online’ at the bottom of the details page.
+  To access the above features and more, download the free Affirm app from the App Store (iOS) or the Google Play Store (Android). See Create an account for more details.
+
+Note: This update won’t affect your checkout experience with Affirm.

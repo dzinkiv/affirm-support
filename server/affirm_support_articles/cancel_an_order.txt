@@ -1,0 +1,6 @@
+Cancel an order
+
+To cancel an order that hasn't been shipped yet, contact the store where you placed the order and tell them you want to cancel it. If it's possible, they'll go ahead and cancel your order.
+If your loan isn't finalized yet, we’ll remove it from your Affirm account. It’ll be like the loan never happened.
+  If your loan is already finalized, you’ll get a full refund. How long it takes for the refund to show up depends on the store. When they process your items quickly, you’ll get the refund in about 21 days.
+  In rare cases, it takes up to 90 days to issue the refund. This usually happens if all or part of order was delayed or canceled.
