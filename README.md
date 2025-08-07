@@ -1,6 +1,10 @@
 # affirm-support
-A customer support website for Affirm utilizing LLMs for a personalized issue resolution. This is a Retrieval-Augmented Generation (RAG) application, leveraging LLMs and Affirm's support docs to provide accurate, context-aware support responses.
-> ⚠️ _**Note**: This project was built in 1 day as a proof of concept, not a production-ready or polished application. It demonstrates the core functionality and architecture of a RAG (Retrieval-Augmented Generation) system, but lacks proper error handling, scalability optimizations, security hardening, and UI refinements._
+The current Affirm support website only supports keyword-based search, which means natural language questions like “What happens if I miss my payment?” often return "Showing 0 of 0 results", even though relevant information exists in the support docs.
+
+This project is a Retrieval-Augmented Generation (RAG) application that integrates LLMs with Affirm’s existing support documentation to provide more personalized, context-aware, and conversational responses to user questions.
+
+By using semantic search and generative answers, it allows users to ask real-world, natural language questions and receive accurate answers drawn directly from Affirm’s documentation.
+> ⚠️ _**Note**: This project was built in 1 day as a proof of concept, not a production-ready or polished application. It demonstrates the core functionality and architecture of a RAG system, but lacks proper error handling, scalability optimizations, security hardening, and UI refinements._
 
 ## Demo
 ![UI Demo](https://github.com/dzinkiv/affirm-support/blob/ee624bdbd96d205b0a94a60bca2497de23554af0/resources/ui_demo.gif?raw=true)
