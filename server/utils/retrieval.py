@@ -12,7 +12,7 @@ load_dotenv()
 
 # Setup
 persist_directory = "./chroma_db"
-llm = ChatOpenAI(model="gpt-4", temperature=0)
+llm = ChatOpenAI(model="gpt-4.1", temperature=0)
 embeddings = OpenAIEmbeddings()
 
 # Load the vectorstore
