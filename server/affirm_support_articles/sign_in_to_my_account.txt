@@ -1,0 +1,11 @@
+Sign in to my account
+
+  These instructions are for signing in using your mobile number. If you have a passcode, fingerprint, or facial recognition set up, simply open the Affirm app and sign in with it. 
+Go to affirm.ca or open the Affirm app, then click or tap Sign in.
+Enter the mobile number you used to create your account, then click Continue or tap Confirm.
+Enter the 4-digit code we texted to that mobile number.
+Note: Never share the code with anyone. No one legitimate will ever ask for it, including anyone from Affirm.
+  If you can’t sign in 
+If you recently changed your phone number, you’ll need to complete this form to update it before you can sign it. If your phone number is updated and you’re still having trouble signing in, tap or click ‘Contact us’ below and we’ll get
+back to you as soon as we can.
+  See here for more information on setting up a passcode, fingerprint, or face ID.

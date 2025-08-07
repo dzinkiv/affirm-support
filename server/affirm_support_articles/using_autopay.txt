@@ -1,0 +1,18 @@
+Using AutoPay
+
+How do I set up automatic payments (AutoPay)? | Turn on AutoPay
+
+  How do I set up automatic payments (AutoPay)?
+You can make automatic payments by turning on AutoPay. This will automatically debit your monthly payment from your debit card or bank account on each due date.
+
+  Turn on AutoPay
+To start making automatic payments, turn on AutoPay at least 24 hours before your next payment is due. Otherwise, your next payment won’t be automatically debited.
+  To turn on AutoPay on affirm.ca:
+  Sign in to your Affirm account.
+Navigate to Loans.
+Select the loan.
+Select Enable AutoPay.
+Select a payment method.
+Select Enable AutoPay.
+
+To stop making automatic payments, turn off AutoPay at least 24 hours before your next payment is due. Otherwise, your next payment may be automatically debited.

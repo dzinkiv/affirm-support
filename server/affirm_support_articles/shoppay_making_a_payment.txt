@@ -1,0 +1,57 @@
+Making a payment
+
+What can I use to pay?
+  You can pay with your debit card or credit card for all Shop Pay Installments purchases on the Shop app, at affirm.ca or in the Affirm app.
+  View my installment balance and payment schedule
+Sign in to the Shop app. 
+On the Home screen, tap the installment purchase you want to review.
+  Add a payment method
+Sign in to the Shop app. 
+Tap the Account icon in the bottom right corner. 
+In the Shop Pay section, tap Wallet. 
+In the Cards section, tap Add card, then complete the required fields. 
+Confirm or change your billing address.
+Tap Save card. 
+Note: If you want your new payment method to be used for existing purchases that are paid automatically, you need to update the automatic payment settings for each purchase.
+    Invalid payment methods
+The following are not accepted for Shop Pay Installments:
+Capital One credit cards
+Pre-paid debit and credit cards
+  Change my automatic payment method
+  Your automatic payment settings aren't universal. That means that if you want to change the payment method for all purchases that have automatic payments, you need to change your settings for each purchase.
+Sign in to the Shop app. 
+In the Home section, tap the purchase that you want to change the automatic payment settings for. 
+Tap View installments.
+Tap Payment Options. 
+Make sure the Automatic Payment slider is swiped right. 
+Tap the payment method you want to use for this purchase.
+
+Note: If the payment method isn’t listed, then tap Use a different card and complete the required fields. 
+  Turn off automatic payments
+You can turn off automatic payments if you want to make manual payments instead. Make sure you turn off the automatic payment setting at least 24 hours before your next payment is due. If you don’t, then your next payment may be processed automatically.
+  Sign in to the Shop app. 
+In the Home section, tap the purchase whose payment setting you want to change. 
+Tap View installments.
+Tap Payment Options. 
+Make sure the Automatic Payment slider is swiped left. 
+  Make a manual payment
+Sign in to the Shop app. 
+In the Home section, tap the purchase that you want to make a payment on. 
+Click View installments. 
+Tap Make a payment. 
+In the Amount to pay section, select your preferred option.
+Note: Custom amounts must be more than $1 CAD and less than or equal to the remaining balance.
+In the Card section, tap the payment method you want to use.
+Tap Pay now. 
+Tap Continue. 
+  Early or late payments
+There are no fees or penalties for paying more than your installment amount, or for paying off your whole balance early. However, partial payments or late payments may affect future approvals to use Shop Pay installments.
+ 
+
+
+Change my payment schedule
+Your payment schedule is based on the date of purchase and can't be changed or combined with another payment schedule. 
+However, you can pay any installment early without any penalty or fee.
+  Additional Questions
+  For questions about a payment, reach out to use by tapping "Still have questions, contact us?" below.
+ 

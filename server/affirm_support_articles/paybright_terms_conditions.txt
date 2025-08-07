@@ -1,0 +1,321 @@
+Terms and Conditions
+Updated June 30, 2022
+These Terms and Conditions (these "Terms") comprise a legal agreement between you (“you” or “your”), the person accessing and using the Website and PayBright Services (each as defined below) and Affirm Canada Holdings Ltd doing business as PayBright (“PayBright”, “we”, “us” or “our”).
+
+These Terms set forth the legally binding terms and conditions concerning your use of PayBright’s website located at https://paybright.com/ (the “Website”) as well as services and products provided by PayBright, either online, in person or via telephone (collectively, the “PayBright Services”). The Website includes, but is not limited to and all other sites and mobile applications owned and operated by PayBright that redirect to the Website, all subdomains provided through such other site or the Website, and all downloadable applications, features, functionality, content or information that is made available or provided on the Website.
+
+BY USING THE WEBSITE AND PAYBRIGHT SERVICES, YOU AGREE YOU HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE WEBSITE AND PAYBRIGHT SERVICES. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE WEBSITE AND PAYBRIGHT SERVICES AND MUST CEASE USE OF THE SAME.
+
+In consideration of the mutual promises and agreements contained in these Terms and other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), you and PayBright agree as follows:
+
+ 
+
+1. General
+1.1. PayBright provides an online platform which allows consumers, Merchants, and PayBright to connect at the point of purchase.
+
+1.2. You are purchasing the Product (as defined below) from the Merchant, not PayBright. Please refer to the Merchant for details of any terms or conditions applying to your purchase, including your right to cancellation and a refund.
+
+1.3. Please refer to your loan agreement with PayBright, or its affiliates and assigns, for terms and conditions of your borrowing and repayment.
+
+1.4. You acknowledge and agree that internet transmissions are never completely private or secure. You understand that any information you provide using the Website or through PayBright Services may be read or intercepted by others, even if there is a notice that a particular transmission is encrypted.
+
+1.5. For consumers in Quebec: Any reference to cost of credit/cost of borrowing in these Terms are to be read as referring to a “credit charge” as defined in the Consumer Protection Act (Quebec).
+
+1.6. If you have any questions or complaints, or need to provide notice to or communicate with PayBright, please contact us via this request form, or by delivery by courier or by the mail, to P.O. Box 64024, RPO Royal Bank Plaza, 200 Bay St., Toronto, ON M5J 2T6 . PayBright may provide notices or communications to you via email or through the Website and you agree that such notices shall constitute notice to you whether or not you actually access the notice.
+
+ 
+
+2. Definitions
+2.1 For the purposes of these Terms, unless stated otherwise, capitalized terms shall have the following meanings:
+
+(a) “Credit Report Consent” shall mean the authorization form electronically signed by a consumer at the time of application for a loan, authorizing PayBright to obtain a credit report subject to the terms contained in the authorization form.
+
+(b) “Intellectual Property Rights” shall mean patents, rights to inventions, copyright and related rights, trade marks, business names and domain names, rights in get-up, goodwill and the right to sue for passing off, rights in designs, database rights, rights to use, and protect the confidentiality of, confidential information (including know-how), and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, renewals or extensions of, and rights to claim priority from, such rights and all similar or equivalent rights or forms of protection which subsist or will subsist now or in the future in any part.
+
+(c) “Merchant(s)” shall mean the merchant(s) from which you purchase a Product.
+
+(d) “Product” shall mean the product or service you purchase from the Merchant using the PayBright Services.
+
+ 
+
+3. PayBright Services
+3.1. PayBright shall, subject to the terms and conditions set forth in these Terms, provide you with the PayBright Services.
+
+3.2. To be eligible for the PayBright Services, you must:
+
+a. be of the age of majority in your province or territory of residence;
+
+b. be a permanent resident in Canada; and
+
+c. have a credit profile acceptable to PayBright, in its sole discretion.
+
+3.3 To apply for the PayBright Services, you must:
+
+a. provide personal information for use in conducting credit checks (subject to the terms of the Credit Report Consent), verifying payment arrangements, verifying identity, and performing a risk assessment.
+
+b. provide personal information for use in conducting identity checks, including your driver’s licence and/or other details; and
+
+c. provide all other information as may be requested by PayBright.
+
+3.4. Where you access the PayBright Services via telephone, you may be required to send PayBright copies of your information via email.
+
+3.5. By submitting an application for the PayBright Services, you authorize PayBright and its service providers to use the information you have provided to:
+
+a. for “Pay in 4” plans, conduct, or arrange for a credit agency to conduct “soft” credit checks from time to time for up to one year after you submit an application and exchange information with credit reporting agencies, subject to the terms of the Credit Report Consent;
+
+b. for "Pay Monthly" plans, conduct, or arrange for a credit agency to conduct, “soft” or “hard” credit checks from time to time for up to one year after you submit an application and exchange information with credit reporting agencies, subject to the terms of the Credit Report Consent;
+
+c. conduct, or arrange for third parties to conduct risk assessments and identity and payment verification checks from time to time, including verifying your identify with records maintained by telecommunications service providers;
+
+d. assess your application for the PayBright Services based on the results of the credit, identity, risk assessment, and payment checks;
+
+e. issue a decision to grant or deny your application for PayBright Services; and
+
+f. provide the results of the decision to the Merchant along with your name and contact information.
+
+3.6. The decision to approve an application for PayBright Services and provide a credit limit is final and at the sole discretion of PayBright.
+
+3.7. For “Pay in 4” payment plans, a “soft” credit check may be conducted with a credit agency at the time of your application, but no “hard” credit check will be performed, subject to the terms of the Credit Report Consent. For “Pay Monthly” payment plans, a “soft” credit check may be conducted with a credit agency when you pre-qualify on PayBright's website and a “hard” credit check will be conducted and will appear on your credit report at the time you submit an application to make a purchase using PayBright on a retailer website, subject to the terms of the Credit Report Consent.
+
+3.8 If you are approved, financing will be available to you through a prepayable, fixed rate installment loan with a term to be specified in the terms and conditions of your loan agreement. The loans may be issued by PayBright or other lenders with which PayBright is partnered (for example, easyfinancial Services Inc.), and may be assigned to other lenders. The terms of your loan will be governed by a loan agreement that you agree to, and will be bound by, at the time a transaction is authorized by PayBright. Any interest on the amount you borrow to finance your purchase will start accruing only once the loan has been issued. Your loan may not be issued or may be cancelled for any reason, subject to any limits under applicable law, including if PayBright determines not to issue the loan or if you violate these Terms. For more information, please refer to the loan agreement entered into between you and PayBright.
+
+3.9. PayBright shall provide you with a user account (the “Online Portal”) which allows you to access information on the Websites regarding your use of the PayBright Services, including payments made and yet to be paid to PayBright.
+
+3.10. PayBright may contact you via SMS text message to the mobile telephone number that you have provided or may provide later to verify your identity. PayBright uses the short code 200904 to send these messages. You may also text JOIN to 200904 to begin receiving these messages. You will need to confirm your subscription by replying YES to the subscription confirmation message that PayBright will send you or by entering the security code PayBright sends you to verify your identity when you apply for a loan. PayBright will not charge you for sending messages to you or receiving messages from you; however, standard messaging and data rates from your wireless carrier may apply. The frequency of messages you may receive from PayBright varies. Text HELP to 200904 for help. Text STOP to stop receiving these messages. Text JOIN to 200904 to begin receiving messages again. If you elect to stop receiving these messages, your use of the PayBright Services may be impaired or prevented entirely if we cannot verify your identity.
+
+ 
+
+4. Your Obligations
+4.1 You shall:
+
+a. only use the PayBright Services for personal purposes;
+
+b. treat your user name and password, or any other piece of information used as part of our security procedures, as confidential and you must not disclose such information to any third parties;
+
+c. promptly notify us at help.paybright.com if you know or suspect that anyone other than you knows the information in clause 4.1(b);
+
+d. provide accurate and up-to-date information at all times when using the Website or accessing PayBright Services;
+
+e. promptly notify PayBright of any changes to information in your user account;
+
+f. comply with all terms and conditions relating to the sale of the Product with the Merchant; and
+
+g. comply with all terms and conditions relating to the financing of your Product by PayBright or its affiliates and assigns.
+
+ 
+
+5. Refunds and Cancellations
+5.1. By entering into a loan agreement, you are agreeing to repay the loan to PayBright based on the terms and conditions of your loan agreement, unless the loan is not issued. Once the loan has been issued, you are responsible for making the payments pursuant to your loan agreement.
+
+5.2. Refunds and cancellations are subject to the return and refund policies of Merchants. You must contact your Merchant directly to request refunds. PayBright will process a refund to you if directed to do so by the Merchant.
+
+5.3. If a refund or cancellation is processed between you and the Merchant after the loan has been issued, the Merchant will notify us
+
+and the amount of your loan will be adjusted accordingly. We may rely solely on the Merchant for the amount of the refund or cancellation to adjust your loan amount. Any disputes as to the adjusted amount of the loan are to be resolved between you and the Merchant unless the adjusted amount of the loan is the result of an error by PayBright.
+
+5.4. If a refund or cancellation is for the entirety of the borrowed amount, you may still owe a credit/cost of borrowing amount, depending on when the merchant notifies us of the refund or cancellation.
+
+ 
+
+6. Electronic Signature Consent
+6.1. Consent. Subject to applicable law, you agree to receive electronically all disclosures, communications, notices, and other information that PayBright may send to you or be required to send to you under applicable law or otherwise (the “PayBright Electronic Signature Consent”) pursuant to the terms and conditions set forth below.
+
+6.2. Scope of Consent. Your PayBright Electronic Signature Consent applies to any transactions undertaken by you with us, or any of our affiliates, assigns, agents or representatives, including use of the PayBright Services, any communication from us or our representatives or agents to you, including all disclosures, communication, notices, and other information required to be given to you under applicable law, any other information required by law to be provided either before or after your loan is issued, your loan agreement, billing statements, adverse action notices, any updates to your account, in each case, pertaining to any transaction with us or any use of the PayBright Services, whether now or in the future (the “Disclosures”). Your consent will remain in effect from the time you initially apply for the PayBright Services or access the Website until such time as your account with PayBright is terminated and, once terminated, will continue until such a time as all Disclosures relevant to your account have been provided. You may withdraw your consent at any time by contacting us via this request form, or by delivery by courier or by the mail, to P.O. Box 64024, RPO Royal Bank Plaza, 200 Bay St., Toronto, ON M5J 2T6.
+
+6.3. Means of Communication. We may send any Disclosures to you via email to the email address that you have provided (or may provide later) to us or via SMS text message. We may also post Disclosures on your account or on the Website. You agree that PayBright is not responsible for your failure to receive any Disclosures sent via text message or email that is not caused by our failure to send the Disclosure to the mobile number or email address that you would have provided to us.
+
+6.4. Minimum Requirements. Before you decide to do business electronically with us, you should consider whether you have the required hardware and software capabilities described:
+
+A valid working email account A mobile device capable of receiving text messages Access to a computer, operating system and telecommunication connection to the Internet capable of receiving, accessing, displaying and either printing or displaying information electronically. Your Internet browser must be one of the current and previous major releases of Chrome, Firefox, Internet Explorer, and Safari Sufficient electronic storage capacity on your computer’s hard drive or other data storage unit Adobe Acrobat or equivalent software.
+
+6.5. Changes to Your Contact Information. You agree to keep us informed of any changes in your email address or mobile number so that you can continue to receive all Disclosures in a timely fashion. If your registered email address, registered address, or mobile number changes, you must notify us of the change by sending a request through help.paybright.com or calling 877.276.2780.
+
+6.6. Acknowledging Your Ability to Access Disclosures. You agree and acknowledge that you can access, receive and retain all Disclosures electronically sent via email or to your mobile number or posted on the Website.
+
+6.7. Legal Effect. Your PayBright Electronic Signature Consent means that any Disclosures shall have the same meaning as if provided in paper form. Subject to applicable law, any Disclosures or other communication sent to you via email or text message shall be deemed delivered once received on your device. By pressing buttons or ticking boxes entitled “Apply”, “Accept and Checkout”, “Submit”, “Confirm”, “Verify”, “I Agree” or similar buttons and boxes indicating your authorization, you are providing your electronic signature with the same effect as if your signature had been provided on paper. Subject to applicable law, you waive any and all defenses you may have that the PayBright Services, the Terms, the loan agreement, the Privacy Policy (as defined below) or any Disclosures were supplied to you in electronic form or that your signature or agreement to the PayBright Services or to the loan agreement was obtained electronically.
+
+ 
+
+7. Intellectual Property Rights
+7.1. PayBright hereby grants you a limited, non-exclusive, personal, non-transferable, non-sub-licensable and revocable right and license to (a) access the Website for the purpose of receiving the PayBright Services in accordance with these Terms; and (b) access, view and print any information and documentation made available on the Website, for your personal, non-commercial and informational use only to assist you in the access and use of the Website and the PayBright Services. Company may terminate this license at any time for any reason whatsoever.
+
+7.2. All Intellectual Property Rights relating to the PayBright Services and the Website and any related services and/or materials provided by PayBright to you or accessed by you under the Terms shall be owned by PayBright. All such rights are reserved.
+
+7.3. You may print off one copy, and may download extracts, of webpages from the Website for your personal use. You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text. Our status (and that of any identified contributors) as the authors of such Intellectual Property Rights must always be acknowledged.
+
+7.4. If you submit comments, ideas, or feedback to PayBright, you agree that PayBright can use them without any restriction or compensation owed to you, and that you expressly disclaim all Intellectual Property Rights in such comments, ideas, or feedback.
+
+7.5. All product, brand and company names and logos and trade-marks displayed on the Website or used in connection with the PayBright Services are the trade-marks of PayBright (or its suppliers, partner businesses or third party licensors). Any use of any of the marks appearing on the Website or in connection with the PayBright Services without the express written consent of PayBright or the owner of the mark, as appropriate, is strictly prohibited.
+
+ 
+
+8. Data Protection
+8.1. You agree that your use of the Website and the PayBright Services is subject to the terms of PayBright's Privacy Policy (the “Privacy Policy”). Please refer to the Privacy Policy for information about how PayBright collects, stores, uses, discloses, and transfers your personal data.
+
+ 
+
+9. No Reliance on Information
+9.1. The content on the Website and other information which is displayed or provided to you when using the PayBright Services is provided for general information only. It is not intended to amount to advice, including financial advice, on which you should rely. You should seek professional or specialist advice before taking, or refraining from, any action on the basis of the content on the Website or other information displayed to you when using the PayBright Services.
+
+9.2. Although we make reasonable efforts to update the information on the Website and otherwise provided to you in relation to the PayBright Services, we make no representations, warranties or guarantees, whether express or implied, that the content on the Website or in documents provided to you in relation to the PayBright Services are accurate, complete or up-to-date.
+
+ 
+
+10. No Warranties
+10.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE WEBSITE AND THE PAYBRIGHT SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE”. PAYBRIGHT HEREBY DISCLAIMS ALL WARRANTIES, REPRESENTATIONS OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. PAYBRIGHT DOES NOT WARRANT THAT THE WEBSITE OR THE PAYBRIGHT SERVICES WILL BE COMPLETE, ACCURATE, RELIABLE, TIMELY, SECURE, ERROR FREE OR THAT ACCESS THERETO WILL BE CONTINUOUS OR UNINTERRUPTED. YOU UNDERSTAND THAT YOU ARE USING THE WEBSITE AND THE PAYBRIGHT SERVICES AT YOUR OWN DISCRETION. IF YOU ARE DISSATISFIED WITH THE WEBSITE, THE PAYBRIGHT SERVICES OR WITH ANY OF THE TERMS, CONDITIONS, GUIDELINES, PRACTICES OR POLICIES OF PAYBRIGHT IN OPERATING THE WEBSITE AND IN PROVIDING THE PAYBRIGHT SERVICES YOU AGREE THAT YOUR SOLE AND EXCLUSIVE REMEDY SHALL BE TO DISCONTINUE USING THE WEBSITE AND PAYBRIGHT SERVICES.
+
+10.2. We do not warrant that the provision of the Website and the PayBright Services complies with the laws of any country apart from Canada.
+
+10.3. The provisions in this clause do not affect your statutory or mandatory rights which cannot be excluded by applicable law.
+
+ 
+
+11. Third-Party Sites
+11.1 The Websites may contain links to other independent third-party websites (“Third-party Sites”). Third-party Sites are not under our control, and we are not responsible for and do not endorse their content or their privacy policies (if any). You will need to make your own independent judgement regarding your interaction with any Third-party Sites, including the purchase and use of any products or services accessible through them. You are strongly advised to check the terms of use and the privacy policies of the Third-party Sites or resources before making use of them. You acknowledge that PayBright may remove any link to an external website or to resources at any time for any reason whatsoever.
+
+ 
+
+12. General Representations and Warranties
+12.1 You represent and warrant that your use of the Website and the PayBright Services will be in strict accordance with these Terms. In particular, you represent and warrant that:
+
+a. you will comply with these Terms at all times;
+
+b. you will provide us and/or the Merchant with accurate and up-to-date information (where required);
+
+c. you will not use the Website or the PayBright Services in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with these Terms, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, including viruses, or harmful data, into the Website or the PayBright Services;
+
+d. you will not infringe our intellectual property rights or those of any third party in relation to your use of the PayBright Services;
+
+e. you will not do any of the following in relation to your use of the PayBright Services:
+
+i. disclose the name, address, telephone number, e-mail address or any other personal data in respect of any individual without their consent,
+
+ii. mislead or deceive any person, or
+
+iii. impersonate any person, or misrepresent your identity or affiliation with any person;
+
+f. you will not use the Website or the PayBright Services in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users; and
+
+g. you will not collect or harvest any information or data from any content or our systems or attempt to decipher any transmissions to or from the servers running the PayBright Services.
+
+ 
+
+13. Indemnity
+13.1 To the extent permitted by applicable law, you agree to defend, indemnify, and hold harmless the PayBright Parties (as defined below) from and against any claims, actions, demands, losses, liabilities, damages, costs and expenses suffered by such persons, including without limitation, reasonable legal and accounting fees, alleging or resulting, directly or indirectly, from your: (a) breach of these Terms; (b) access to the Website or use of the PayBright Services.
+
+14. Limitation of Liability
+14.1 If you reside in Quebec, the provisions of this Section 14 apply to you only to the extent that any loss, damage or other prejudice suffered by you is not a result of acts of PayBright or its representatives.
+
+14.2. PayBright will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
+
+a. your use of, or inability to use, the Website;
+
+b. your use of, or reliance on, any content displayed on the Website;
+
+c. rejection of your application for the PayBright Services;
+
+d. any breach by the Merchant, including any failure or fault in the Product purchased from the Merchant, including a failure to deliver or delay in delivery of the Product; and
+
+e. any breach by PayBright, including failure to make payment to the Merchant.
+
+14.3. IN NO EVENT WHATSOEVER SHALL ANY OF PAYBRIGHT, ITS DIRECTORS, OFFICERS, EMPLOYEES, SHAREHOLDERS, AFFILIATES, AGENTS AND THIRD-PARTY CONTRACTORS, SUPPLIERS AND LICENSORS (COLLECTIVELY THE “PAYBRIGHT PARTIES”) BE LIABLE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY OR OTHERWISE, FOR INDIRECT, CONSEQUENTIAL OR SPECIAL LOSS, LOSS OF PROFIT, LOSS SALES OR BUSINESS OPPORTUNITY, LOSS OF AGREEMENTS OR CONTRACTS, LOSS OF ANTICIPATED SAVINGS AND LOSS OF OR DAMAGE TO GOODWILL ARISING UNDER OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF (OR THE INABILITY TO USE) THE WEBSITE OR PAYBRIGHT SERVICES.
+
+14.4. In addition, PayBright will not be liable for any loss or damage caused by:
+
+a. virus, distributed denial-of-service attack, or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the Website or to your downloading of any content on it, or any websites linked to it; and
+
+b. any failure or delay in providing the Website or the PayBright Services to you due to matters beyond its reasonable control, without limitation, mechanical, electronic, or communications failure or degradation.
+
+14.5. PayBright’s total liability to you under or in connection with these Terms shall be limited to $100.
+
+ 
+
+15. Termination
+15.1 PayBright may terminate these Terms and suspend your use of or access to all or any part of the Website or the PayBright Services immediately by contacting you at your email address on record if:
+
+a. you commit a breach of the Terms which remains unremedied for 15 days following notice of such breach to you by PayBright;
+
+b. we terminate our loan agreement with you;
+
+c. we consider termination necessary to protect the integrity or security of the systems used by us at any time;
+
+d. you are deemed by us either as unable to pay your debts or as having no reasonable prospect of so doing; or
+
+e. you apply for bankruptcy or become the subject of a bankruptcy petition or order.
+
+15.2 You may request to terminate the Terms and close your account at any time by contacting PayBright here. PayBright will process your request within 30 business days. If you owe any payments, PayBright will not close your account until that obligation has been resolved, but we may limit your ability to enter into additional transactions using your account. You may not close your account to evade an investigation. You will remain liable for all obligations related to your account even after the account is closed. PayBright will retain your information in accordance with its Privacy Policy and any applicable law.
+
+15.3 PayBright may terminate these Terms if your account has been inactive for two years or longer.
+
+15.4 On termination of the Terms, all rights granted to you under the Terms shall cease and you must immediately cease all activities authorized by the Terms, including your use of the PayBright Services. PayBright will retain your information in accordance with its Privacy Policy and applicable law.
+
+15.5 Any provision of these Terms that expressly or by implication is intended to come into or continue in force on or after termination of this Terms shall remain in full force and effect.
+
+15.6 Termination or expiry of these Terms shall not affect any rights, remedies, obligations or liabilities of the parties that have accrued up to the date of termination, including the right to claim damages in respect of any breach of the Terms which existed at or before the date of termination or expiry.
+
+ 
+
+16. Cookies
+16.1. You agree that PayBright has the right to monitor and review your use of the Website and PayBright Services from time to time, and to use “cookies”, “log files” and your “browsing data” in accordance with the Privacy Policy.
+
+ 
+
+17. Entire Agreement
+17.1. These Terms, any loan agreement entered into between you and PayBright and the Privacy Policy constitute the entire agreement between the parties and supersedes and extinguishes all previous agreements, promises, assurances, warranties, representations and understandings between them, whether written or oral, relating to its subject matter.
+
+17.2. Nothing in these Terms affects the liabilities, rights and obligations of you and the Merchant under the applicable terms between you and the Merchant.
+
+ 
+
+18. Waiver
+18.1 If PayBright fails to insist that you perform any of your obligations under these Terms, or if PayBright does not enforce its rights against you, or if PayBright delays in doing so, that will not mean that PayBright has waived its rights against you and will not mean that you do not have to comply with those obligations. If PayBright does waive a default by you, it will only do so in writing, and that will not mean that PayBright will automatically waive any later default by you.
+
+ 
+
+19. Assignment
+19.1. You may not assign, transfer or deal in any other manner with any or all of your rights under these Terms without the prior written consent of PayBright.
+
+19.2. PayBright may at any time assign, transfer or deal in any other manner with any or all of its rights under these Terms without your consent. These Terms shall be binding upon and shall enure to the benefit of and be enforceable by each of the parties hereto, their respective successors and permitted assigns.
+
+ 
+
+20. Severability
+20.1. If any provision of these Terms is held by a court of competent jurisdiction to be invalid or unenforceable in any respect, then the remaining provisions of these Terms, or the application of such provisions to persons or circumstances other than those as to which it is invalid or unenforceable shall not be affected thereby, and each such provision of these Terms shall be valid and enforceable to the extent permitted by law.
+
+ 
+
+21. Variation
+21.1. We reserve the right to change the Terms at any time for any reason. Any changes we may make to the Terms in the future will be notified to you by email in advance. If you use the Website or the PayBright Services after receiving notice of any such modification or replacement, you are deemed to have read and are indicating your acceptance of, and you agree to be bound by, the modified or replaced terms of use, which modified or replaced terms of use shall be the Terms.
+
+21.2. If you reside in Quebec, we will notify you in advance of any material changes to these Terms. We will provide you with a notice that sets forth the change, the date of the coming into force of the change and your rights to refuse such change and to rescind these Terms without cost, penalty or cancellation indemnity by sending us a notice to that effect no later than 30 days after the modification comes into force. If you do not agree to the revised terms and conditions, you must stop using the PayBright Services and, close your account and terminate your relationship with us without cost or penalty in accordance with section 15.2 of these Terms.
+
+ 
+
+22. No Third-Party Rights
+22.1. These Terms are between you and PayBright. No other person shall have any rights to enforce any of its terms.
+
+ 
+
+23. Minors
+23.1 The Website and PayBright Services are not intended to be used by, and are not marketed or directed towards, children or any person under the age of 18. To use and access the Website and PayBright Services you must be a resident of Canada and of the age of majority in your province or territory of residence.
+
+ 
+
+24. Electronic Documents
+24.1 This electronic document, and all other electronic documents referred to or incorporated herein, will be: (a) deemed for all purposes to be a “writing” or “in writing”, and to comply with all statutory, contractual, and other legal requirements for a writing; and (b) legally enforceable as a signed agreement. A printed version of these Terms and any notice given in electronic form shall be admissible in judicial proceedings or administrative proceedings based upon or relating to these Terms to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+
+ 
+
+25. Language
+25.1 The parties have agreed that these Terms and all documents relating thereto be drawn-up in English. Les parties à la présente convention ont expressément demandé que cette convention ainsi que tous les documents qui s’y rattachent soient rédigés en langue anglaise.
+
+ 
+
+26. Governing Law and Jurisdiction
+26.1. The Website is administered by PayBright from Ontario, Canada. You acknowledge and agree that your use of the Website and PayBright Services and all of the communications, transmissions and transactions associated with the Website and the provision of the PayBright Services shall be deemed to have occurred in the Province of Ontario, Canada.
+
+26.2. For consumers residing outside Quebec, these Terms and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of the Province of Ontario and federal laws of Canada applicable therein, and you agree that the courts of the Province of Ontario shall have exclusive jurisdiction over such disputes or claims.
+
+26.3. For residents of Quebec, these Terms and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of the Province of Quebec and federal laws of Canada applicable therein.
+
+26.4. You expressly agree that, in the event that there is a dispute under these Terms and such dispute is to be resolved in a court of law, such dispute shall not be resolved by jury trial and you hereby waive any right to trial by jury.

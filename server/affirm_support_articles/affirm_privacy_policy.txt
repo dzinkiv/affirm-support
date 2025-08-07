@@ -1,0 +1,164 @@
+Affirm's privacy policy
+
+AFFIRM CANADA HOLDINGS LTD - PRIVACY NOTICE
+
+At Affirm Canada Holdings Ltd. ("Affirm", "we", "us", "our") we are committed to maintaining the accuracy, confidentiality and security of your personal information. This Privacy Notice explains how Affirm collects, uses and discloses your information when you request and obtain our financial products, interact with Affirm as a representative of another business, use our website and mobile applications, or otherwise interact with us (our "Services"). We also explain your data privacy rights and how you can exercise them. PLEASE READ THIS PRIVACY NOTICE CAREFULLY. BY ACCESSING OR USING OUR SERVICES, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY NOTICE AND AGREE TO BE BOUND BY ITS TERMS. YOU CAN WITHDRAW YOUR CONSENT AT ANY TIME, HOWEVER, IF YOU CHOOSE TO DO SO, WE MAY NOT BE ABLE TO PROVIDE YOU WITH ACCESS TO OR USE OF THE SERVICES.
+
+Updates to our last Notice.
+This Notice updates our previous version (6/1/2025) to reflect changes to our contact information.
+
+Table of Contents
+How Affirm Collects your information
+How Affirm Uses your information
+How Affirm discloses your information
+What are your Rights and Options regarding your Personal Information?
+Your provincial or territories rights
+How we protect your information
+Retention of your information
+General
+1. How Affirm collects your information
+1.1. Information you give Affirm
+If you open an account, use the Affirm Services or participate in any of our promotions, programs and other initiatives, either directly or through a merchant partner or a third-party platform, we may collect the following types of personal information (any information about an identifiable individual):
+
+For the purposes of this Privacy Policy, personal information is any information about an identifiable individual.
+
+Identity and Profile Infomation. This includes your full name, address, telephone number, mobile number, email address, third-party application IDs, your age and date of birth; and other similar contact and identification information;
+Financial Information. This includes bank account numbers, credit scores, checking account information, income, credit and debit card information and other similar financial or payment information;
+Government IDs and Identifying Documents. This may include but is not limited to your utility bill, bank statements, credit card statement, loan statement (or mortgage documents), passport, permanent resident card, identification card, BC services card (applicable to residents of British Columbia), answers to certain knowledge-based authentication questions, cell phone number and/or information about your wireless service provider.
+Customer Service Interaction Information. We may also collect information about you from any interactions you have with us while accessing or visiting our Services or contacting our employees, such as, through recorded phone calls, chat conversations, surveys, and email correspondence.
+
+We will record any phone call made or received through our customer help line for quality assurance and training purposes. You will be notified of our intent to record the call for this purpose before any substantive discussion begins. We will provide you with another means to communicate with us if you choose not to consent to this recording. You have the right to obtain a copy of this recording.
+
+Affirm is not required to obtain consent to record your phone call if (1) Affirm is calling you for the purpose of collecting a debt; (2) the call is for the purpose of investigating potential fraud; or (3) your knowledge of our recording could hamper Affirm's ability to obtain accurate information.
+
+Usage Details and Device Information. We may collect certain information automatically when you use the Services, including your details about your browser, operating system or device, such as your IP address and other device information, including unique device identifiers, name and type of your device, operating system, location, mobile network information and standard web log information. Information relating to your device settings, such as the type and version of your browser, application IDs, crash data, traffic data to and from our website, the pages you accessed on our website, and any other available information. We may also store information based on your usage history, including details of your purchases, content you viewed, event information and click stream information.
+
+Much of this information is collected through cookies, web beacons, and other tracking technologies, which may be operated by our partners who assist us in collect information about usage of the Services, serving ads, or providing other services to you such as:
+
+Site operations: Enabling features that are necessary for providing you the Services on our site, such as identifying you as being signed in, tracking content views and remembering your preferences.
+Analytics: Allowing us to understand how our Services are being used, track site performance, and make improvements.
+Personalized advertising: Delivering tailored advertising based on your preferences or interests across services and devices, and measuring the effectiveness of advertisements.
+We may also use a third party pixel such as Facebook pixel, which is JavaScript code that is placed on the website. This pixel enables us to track whether you have clicked through to the website from one of our Facebook advertisements. This feedback helps us to target our marketing so that you see those Facebook ads for our Services that we believe may be most relevant to you. Facebook also deposits a cookie on our website that collects certain information. This information is sent back to Facebook in anonymized, hashed form where Facebook uses it to assist us in building targeted audiences for future ads, and in remarketing our Services to you if you have browsed through our website. For more information on Facebook and advertising tools and your options to opt-out, please visit: https://www.facebook.com/policies/cookies.
+
+You can also opt-out of several third party ad servers' and networks' cookies simultaneously by using an opt-out tool created by the Digital Advertising Alliance of Canada or an opt-out tool created by the Network Advertising Initiative. You may prevent or opt-out of cookies and other tracking technology by changing your browser settings.
+
+Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. We do not control these third parties' tracking technologies or how they are used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. It should be noted that if cookies are not accepted, you may not be able to access the Services.
+
+1.2. Information Obtained from Third Parties.
+We may obtain information about you from other sources, including sources that we rely on to enrich our Services, such as merchant partners, identity verification services, social media platforms and wireless carriers.
+
+Social media platforms and other data sources managed by third parties. Affirm may have access to your information from your accounts managed by third parties. The information we have access to varies by site and is controlled by your privacy settings on that site and your authorization. By associating an account managed by a third party with your Affirm account and authorizing Affirm to have access to this information, you agree that Affirm may collect, store and use this information in accordance with this Privacy Notice.
+Third party sources that we rely on to enrich our Services. From time to time, we may utilize the services of third parties such as merchants, and identity verification services, and may also receive personal information collected by those third parties in the course of the performance of their services for us or otherwise. For example, we may receive your personal information, including biometrics, from third party service providers that perform identity verification services on our behalf. In these instances, we will take reasonable steps to ensure that such third parties have represented to us that they have the right to disclose your personal information to us.
+Information we obtain from credit reporting agencies. We may also obtain information from credit bureaus (including credit reporting agencies) for a permissible purpose such in connection with the extension of credit to you, for the collection of debt or for any other direct business need of Affirm for that information. For example, we may use this information for market refinancings and the offering of Affirm's current and future products and services to you (both during and after the term of your loan and the term of any other services you may obtain from us), provide you with other services you may request, make decisions related to the servicing and collection of your account, measure how the loan you obtained from us impacts your credit, perform other statistical analysis, and share information with you about your credit profile. The information we may obtain includes your credit score and your credit report which may include information on your credit history with other lenders.
+Wireless Carriers. We may also receive your information if you have authorized your wireless carrier to disclose information to us about your account, such as your name and address, subscriber status, payment method and device details, if available, for the limited purposes of identity verification, and fraud avoidance for the duration of your business relationship with us. This information may also be shared with our service providers to the extent necessary to support these purposes.
+2. How Affirm uses your information
+2.1. Provide our Services
+We collect the necessary information from you to provide you with the products and services. For example, we collect information to enable you to register, access and maintain an account with us and allow you to participate in, subscribe to, or otherwise receive products or services from us. We may also use your information to protect Affirm against error, fraud, theft and damage to our goods and property as well as to investigate, detect, suppress, prevent or take action regarding illegal or prohibited activities, suspected fraud, situations involving potential threats to the reputation or physical safety of any person.
+
+2.2. Improve our services and grow our business
+We use your information to be able to review the products and services that we provide to you so that we may: (a) understand your requirements for our products and services; and (b) work to improve our products and services. This includes but is not limited to using your personal information:
+
+to evaluate existing products and services, develop new products and services, drive strategy and improve the customer experience we offer;
+in the utilization and training of artificial intelligence and/or machine learning tools;
+for our quality and servicing training programs;
+to understand your preferences and tailor offers, products and services to you based on these preferences;
+create analytical data and conduct research in connection with our business, services, promotions and operations.
+When we collect your information for research and development purposes, we ensure that any information used for our analysis and reports will be de-identified and aggregated in a manner that will not identify you. Notwithstanding anything to the contrary contained in this Privacy Notice, we may remove personal identifiers from your information and maintain and use it in a de-identified form that may be combined with other information to generate aggregated information. Such de-identified and/or aggregated information will be deemed to be owned by us and we shall have unrestricted title, rights, and interest to the de-identified and/or aggregated information which may include, without limitation, the right to use, distribute, transmit, transfer, license, trade, rent, share, assign, and sell the de-identified and/or aggregated information.
+
+2.3. Respond to your requests.
+We may use your information to be able to provide customer service and support as well as comply with your requests. For example, if you prefer to be contacted at a business or residential telephone number and advise us of your preference, we will use this information to contact you at that number.
+
+2.4. Communications and marketing.
+We may use your information to send information to you about promotions, products or services of ours or our marketing partners that we believe may be of interest to you. We may also use your information to establish, maintain, and manage our relationship with you so that we may provide you with, or receive from you, the products or services that have been requested.
+
+2.5. Comply with legal and regulatory obligations.
+We may use your information to enable us to comply with applicable laws or regulatory processes.
+
+2.6. Other
+We may also use your information for any other reasonable purpose to which you consent.
+
+3. How Affirm discloses your information
+3.1. Affiliates and subsidiaries
+We may share your personal information with our parent company, Affirm Inc. for the purposes of underwriting and processing loans provided to you under a loan agreement.
+
+3.2. With service providers and contractors.
+We engage service providers, contractors and third parties to perform functions on our behalf, such as processing transactions, data storage and processing, maintaining your account, marketing, advertising and promotion of Affirm's products and services, responding to court orders and legal investigations, complying with audits or other investigations, and reporting to credit bureaus.
+
+3.3. With third parties to offer our Services
+We disclose your information with certain third parties as necessary to offer and improve our Services, including vendors who assist with identity verification, the credit bureaus (including credit reporting agencies) and wireless carriers.
+
+3.4. With Our Merchant Partners
+We may also share your personal information with the merchants in connection with your use of Affirm's products and services and for marketing purposes. Affirm will advise a merchant when you are approved or declined to utilize Affirm's Services but will not share the reason for the decline with the merchant. We do this to help merchants personalize services and offers, so you can have a better experience. In addition, Affirm may share your personal information (including, but not limited to, your name, phone number, address and details about items purchased) with a merchant in the course of servicing your account or processing one of your transactions (including, but not limited to, by advising a merchant when you have contacted Affirm about a transaction). Affirm may also share with a merchant whether or not you have an active loan and/or the status of a previous checkout.
+
+You're able to revoke your consent at any time by following the steps outlined below. If you choose to do so, we will stop sharing your information with merchants from that point onward, except as necessary to complete transactions you initiate. To revoke your consent to information sharing with merchants for marketing, you can log into your Affirm account and edit your Personalized Services preferences.
+
+3.5. As a part of a Corporate Transaction
+In addition, personal information may be disclosed or transferred to another party and their professional advisors during the course of, or completion of, a change in ownership of or the grant of a security interest in, all or a part of Affirm or its affiliates through, for example, an asset or share sale, or some other form of business combination, merger or joint venture, provided that such party is bound by appropriate agreements or obligations and required to use or disclose your personal information in a manner consistent with the use and disclosure provisions of this Privacy Notice, unless you consent otherwise. We do not rent or sell your personal information to third parties in Affirm's ordinary course of business.
+
+3.6. Other Ways your Personal Information may be Disclosed
+Your personal information may also be disclosed: (a) as permitted or required by applicable law or regulatory requirements; (b) for the purposes of collection and/or as otherwise described in this Privacy Notice; (c) to comply with valid legal processes such as search warrants, subpoenas or court orders; (d) as part of Affirm's regular reporting activities under applicable laws; (e) with national security or law enforcement agencies of those countries to which personal information is transferred; and (f) for additional purposes for which we have obtained your consent to the use or disclosure of your personal information.
+
+3.7. The Consequences of the Sharing of your Personal Information
+Your personal information may be stored and processed at our corporate offices in the U.S. or with approved third parties within Canada and the U.S. If a third party processes or stores information outside Canada, foreign governments, courts or regulatory agencies may therefore be able to obtain such personal information through the laws of the foreign jurisdiction. If you would like further information about our policies and practices regarding service providers located outside of Canada and further information about how these service providers, collect, use, disclose or store personal information, please contact our Customer Care team using the contact details below. By providing your personal information to us, you consent to our disclosure of this information to our service providers, merchants and other third parties as described in this Privacy Notice, including those that may be located outside of Canada, for the purpose of processing your order, marketing to you, providing services to us or to you, to operate our business and for the other purposes described in this Privacy Notice.
+
+4. What are your Rights and Options regarding your Personal Information?
+4.1. Your Consent is Important to Us
+It is important to us that we collect, use or disclose your personal information where we have your consent to do so. Depending on the sensitivity of the personal information, your consent may be implied or express. We may collect, use or disclose your personal information without your knowledge or consent where we are permitted or required to do so by applicable law or regulatory requirements.
+
+Typically, we will seek your consent at the time that we collect your personal information. In certain circumstances, your consent may be obtained after collection but prior to our use or disclosure of your personal information, for example when we intend to use the information for a purpose not previously identified. If we plan to use or disclose your personal information for a purpose not previously identified (either in this Privacy Notice or separately), we will use our best efforts to advise you of that purpose before such use or disclosure. You may change or withdraw your consent at any time, subject to legal or contractual obligations and reasonable notice, by contacting our Privacy Officer using the contact information set out below. All communications with respect to such withdrawal or variation of consent should be in writing and addressed to our Privacy Officer. If you withdraw or vary your consent, we may not be able to provide you with the products and services you request through our Services. For example, if you want to place an order for our products or services, but do not provide the information required to purchase such products, we will not be able to fulfil your request.
+
+Unless you advise us otherwise, through the access and use of our Services, or the purchase of any of Affirm's products and services, you have consented to the collection, use and disclosure of your personal information as explained in this Privacy Notice.
+
+4.2. Notifications
+If you no longer wish to receive notifications about our Services, you may change your notification preferences and opt-out of receiving such notifications by logging into your account and adjusting your preferences or by following the directions provided with the communication or by calling Affirm Customer Care at (888) 484-4282. Affirm reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to provide the Services. You are still responsible for any amounts due to Affirm even if we close or limit access to your account. You also have the right to opt-out of receiving notifications and marketing directly from merchants and you should contact the merchant directly if you wish to exercise such opt-out rights.
+
+4.3. SMS Messaging.
+You can opt out of receiving SMS messages by calling us at (888) 484-4282 or replying "STOP" to an SMS message you have received from us. Again, Affirm reserves the right to close or limit access to your account should you opt out of the crucial notices that are required to perform the Affirm Service. You are still responsible for any amounts due to Affirm even if we close or limit access to your account.
+
+4.4. Access your information.
+You can review and edit your personal information at any time by signing in to your account at www.affirm.com/en-ca/ or by submitting a privacy request.
+
+Canadian data protection laws, such as the Personal Information Protection and Electronic Documents Act ("PIPEDA"), British Columbia's Personal Information Protection Act (PIPA) and Quebec's Act respecting the Protection of Personal Information in the Private Sector (Quebec's Private Sector Act), set out rules for how organization like Affirm collect, use and disclose personal information and give Canadian consumers the right to receive certain information regarding the collection, use, and sharing of personal information as well as the right to know and access the personal information a company collects from or about them. If you would like to exercise such rights, please submit a privacy request.
+
+Please note that when requesting access to your personal information, we will ask that you sign in to your Affirm account so that we can confirm your identity and right to access the personal information that we hold about you. If you need help preparing your request, please contact our Privacy Officer at privacy@affirm.com.
+
+Your right to access the personal information that we hold about you is not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information. In addition, the personal information may have been destroyed, erased or made anonymous in accordance with our record retention obligations and practices. If we cannot provide you with access to your personal information, we will inform you why we are unable to grant you access, subject to any legal or regulatory restrictions.
+
+5. Your provincial or territories rights
+5.1 Quebec residents
+Automated Decision Making: Under the Protection of Personal Information in the Private Sector (Quebec's Private Sector Act), Quebec residents have a right to request certain information about decisions made using automated decision making. If you would like to request this information, please contact our Privacy Officer in writing or by e-mail using the details above.
+
+Limit Sharing of Your Information: Quebec residents may request to restrict the dissemination of their personal information. However this right is not absolute, and there may be instances where applicable law or regulatory requirements allow us to continue with these actions or prevent us from ceasing them. If we are unable to perform your request we will inform you why, subject to any legal or regulatory restrictions.
+
+Data Processing Information: Quebec residents may also be entitled to request additional information regarding our data governance practices, including details regarding what information is collected about you, the categories of persons who have access to your information, and how long your information will be retained. If you would like to request this information, please contact our Privacy Officer in writing or by e-mail using the details above.
+
+Data Portability: Quebec residents have the right to receive computerized personal information collected about them in a structured, commonly used and technological format and to have this information transferred directly to another organization. If you would like to request this information, please contact our Privacy Officer in writing or by e-mail using the details above.
+
+6. How we protect your information
+Affirm maintains appropriate physical, electronic and procedural safeguards to guard against unauthorized access to systems and uses safeguards such as firewalls and data encryption. We enforce physical access controls to our buildings, and we authorize access to personal information only for those employees or agents who require it to fulfill the responsibilities of their jobs and in accordance with this Privacy Notice. The Internet is not 100% secure. We cannot promise that your use of our sites or services will be completely safe. Any transmission of your data to our site is at your own risk.
+
+7. Retention of your information
+We will retain your personal information for as long as necessary to complete the purposes for which it was collected as described in this Privacy Notice and for reasonable backup, archival, audit, or other similar purposes including requirements of the law. Once your personal information is no longer needed for the purposes mentioned above, we will securely destroy, erase or anonymize your personal information.
+
+8. General
+8.1. Linked Websites.
+Our Services may contain links to other websites that may be subject to less stringent privacy standards and policies. These links are provided for your convenience only and you assume all risk for clicking these links to other websites. We cannot assume any responsibility for the privacy practices, policies or actions of the third parties that operate these websites. Affirm is not responsible for how such third parties collect, use or disclose your personal information. You should review the privacy policies of these websites before providing them with personal information.
+
+8.2. Personal Information of Minors.
+Our Services are not intended for minors. We do not knowingly collect personal information from minors. If you are considered a minor in your jurisdiction, do not access our Services, including on or through any of the features on the Website or App, use any of the interactive or public comment features of the Website or App, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we become aware of any information we have collected or received from a minor without verification of parental consent, we will delete that information. If you believe we might have any information from or about a minor, please contact our Privacy Officer.
+
+8.3. Interpretation.
+This Privacy Notice includes examples but is not intended to be restricted in its application to such examples, therefore, where the word "including" or "such as" is used, it shall mean "including without limitation".
+
+This Privacy Notice does not create or confer upon any individual any rights, or impose upon Affirm any rights or obligations outside of, or in addition to, any rights or obligations imposed by applicable laws. Should there be, in a specific case, any inconsistency between this Privacy Notice and applicable laws, this Privacy Notice shall be interpreted, in respect of that case, to give effect to, and comply with, such privacy laws.
+
+8.4. Contact Affirm.
+If you have any questions about this Privacy Notice or concerns about how we manage your personal information, please contact our Privacy Officer in writing or by e-mail. We will endeavor to answer your questions and advise you of any steps taken to address the issues raised by you. If you are dissatisfied with our response, you may be entitled to make a written submission to the Privacy Commissioner in your jurisdiction. We have appointed a Privacy Officer to oversee compliance with this Privacy Notice. The contact information for our Privacy Officer is as follows:
+
+Affirm Canada Holdings Ltd.
+155 Wellington St. W. M5V 3H1
+Toronto, Canada
+
+Email: privacy@affirm.com
+
+If you choose to communicate with us via email, please be aware that email is not a 100% secure medium for sending any personal or confidential information to us.

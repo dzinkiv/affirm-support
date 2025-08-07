@@ -1,0 +1,10 @@
+Find my purchase ID
+
+Your purchase ID is an 8-digit unique ID for your Shop Pay Installments purchase. The ID has 8 alphanumeric characters. We might ask for your purchase ID when you contact Affirm about a specific purchase made using Shop Pay Installments.
+You can find your purchase ID in the Shop app by following these steps:
+Open the Shop app.
+Select your order.
+Click View installments.
+Scroll down to the Installments details page to find information like your payment plan ID and information about your interest payments (if applicable).
+  You can also find your purchase ID near the bottom of most emails relating to your purchase. 
+  The ID is formatted like this: XXXX-XXXX

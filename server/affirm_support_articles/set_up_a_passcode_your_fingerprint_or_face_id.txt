@@ -1,0 +1,20 @@
+Set up a passcode, your fingerprint, or face ID
+
+  Using a passcode, or your fingerprint or facial recognition (on devices that support them) makes signing in to the Affirm app faster and more secure (these sign-in methods aren’t available at affirm.ca). If you don’t have a passcode, you’ll be prompted to set one up during the normal sign-in process. Or, you can always set up a passcode later in your account. 
+  Set up a passcode, fingerprint, or face ID 
+  Sign in to the Affirm app.
+Tap the profile icon with your initials at the top right of the screen.
+Scroll down to Sign-in options.
+Tap Set up a passcode, type your passcode, then re-enter it to confirm. (Tip: you can change your passcode if you forget it, but it's a good idea to write it down somewhere secure.)
+To use your fingerprint or face ID instead of a passcode, toggle the bar under Sign in options to enable the feature.
+  Change or disable your passcode 
+Sign in to the Affirm app.
+Tap the profile icon with your initials at the top right of the screen.
+Scroll down to Sign-in options.
+Tap Edit your passcode.
+Enter a new passcode.
+Re-enter your new passcode.
+
+See here for more information on how to sign in to your account.
+
+ 

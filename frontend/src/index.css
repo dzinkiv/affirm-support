@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-black: #101820;
+  --color-purple: #4a4af4;
+  --font-calibre: 'Calibre', sans-serif;
+}

@@ -1,0 +1,17 @@
+Change my Shop Pay phone number
+
+To change your phone number, you need to log in to Shop Pay through a web browser. You can't change your Shop Pay phone number through the app.
+  If required, enter your email, and then click Continue. 
+In the “Confirm it's you” section, complete one of the following options:  
+Enter the six-digit verification code sent to your phone number. 
+Click Send me a code by email instead and then enter the six-digit verification code sent to your email. 
+  After you log in, complete the following steps to change your Shop Pay phone number: 
+In the Login & security section, click “Change” next to your existing phone number.
+Enter the mobile phone number that you want to use, and then click Continue.
+In the Confirm it's you section, enter this six-digit verification code that you received to your new phone number. 
+  Note:  Once your Shop Pay phone number has been successfully updated, call Affirm at (888) 484-4282 or at 416-987-1463 to complete your phone number update. Your phone number with Affirm must be updated before you can pay for another purchase in installments with Shop Pay.
+    Change your phone number when you can't verify your account 
+The “Send me a code by email instead” option is only available if you verified your Shop email address when you set up Shop Pay. 
+If you don't have the Send me a code by email instead option, and you can't access the existing phone number on your Shop Pay account, then you need to complete the following steps to change your phone number: 
+Delete your Shop account.
+Set up Shop Pay with a new phone number. 
