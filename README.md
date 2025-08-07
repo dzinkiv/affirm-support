@@ -22,7 +22,9 @@ source venv/bin/activate
 ```
 #### Install all dependencies
 ```
+cd server
 pip install -r requirements.txt
+cd ..
 ```
 #### Start the server
 ```
