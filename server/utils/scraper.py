@@ -21,6 +21,13 @@ visited_urls.add(
 visited_urls.add(
     "https://helpcenter.affirm.ca/s/topic/0TO7V00000134SOWAY/security-&-privacy"
 )
+visited_urls.add("https://helpcenter.affirm.ca/s/topic/0TO7V00000134SLWAY/affirm-loans")
+visited_urls.add(
+    "https://helpcenter.affirm.ca/s/topic/0TO7V00000134SNWAY/paybright-loans"
+)
+visited_urls.add(
+    "https://helpcenter.affirm.ca/s/topic/0TO7V000001D7NWWA0/shop-pay-installments"
+)
 
 driver = webdriver.Firefox()
 

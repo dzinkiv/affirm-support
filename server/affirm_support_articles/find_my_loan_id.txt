@@ -1,0 +1,5 @@
+Find my loan ID
+
+Your loan ID is the unique identifier for your loan. We’ll ask you for it if you need to get in touch about a specific loan.
+  You can find your loan ID near the end of all payment reminder emails.
+  It’s also on your Affirm account. Sign in, navigate to your loan, and click Details to find it.

@@ -10,3 +10,8 @@ beautifulsoup4
 playwright
 unstructured
 selenium
+chromadb
+langchain-chroma
+fastapi
+uvicorn
+pydantic

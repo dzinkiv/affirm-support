@@ -1,0 +1,20 @@
+PayBright: Missed or late payments
+
+What if I can't make my payment on time?
+
+Sometimes, things come up. We understand. If you're running behind this month, please send us a message ASAP. While we can't promise to accommodate all requests, we'll try our best to work with you to keep your account in good standing.
+  Will I be charged any fees for missing a payment?
+
+We don't charge any late fees, however, missing a payment will prevent you from being able to make future purchases using PayBright.
+  Why did my pre-authorized payment fail?
+
+If we've debited a payment and it returns, please double check the payment details provided. Non-sufficient funds (NSF), incorrect banking details, or an expired credit card are the most common reasons for a failed payment attempt.
+  If I missed a payment, when will it be re-debited?
+For Equal Monthly Payment Plans:
+
+If your payment method is a credit or debit card, We'll automatically re-schedule your missed payment for the following Friday, until the payment clears. If your payment method is a chequing account, your missed payment will be re-scheduled for every other Friday, until the payment clears.
+  For Pay in 4 Plans:
+
+If you miss a Pay in 4 payment, our system will automatically re-schedule it to be re-attempted on your configured Debit/Credit card, at a later date. To find out when your missed payment will be re-debited, log in to your PayBright account to view your updated payment schedule.
+
+Please be sure to update your payment method if you need to before the next scheduled attempt!

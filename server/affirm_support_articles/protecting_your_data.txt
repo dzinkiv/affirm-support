@@ -1,0 +1,25 @@
+Protecting your data
+
+Protect your personal data and avoid scams
+See our Affirm Security page for detailed information about best practices and our approach to security.
+  Learn about account security and online safety
+Scammers aim to steal your money or information for their personal gain – learn how you can protect yourself and your personal information: 
+Be wary of any unsolicited emails, phone calls, or text messages that ask for your personal or banking information. If you receive a suspicious email, phone call, or text message from someone claiming to be Affirm, please report it.
+Never share your PIN or passcodes with anyone. Affirm will never ask you for your PIN, One Time Passcode, or password.
+Check your Affirm account regularly to ensure that all transactions are legitimate. Report any unauthorized transactions to Affirm immediately.
+Use complex, unique passwords for your accounts that are difficult to guess. Avoid using common passwords or easy-to-find information like your birthdate or pet's name.
+Learn more in our Security Checklist.
+
+Report suspicious activity
+
+Fill out the form below when you: 
+See suspicious activity on your account (e.g., transactions you don’t recognize, personal information changes you didn’t make)
+Receive a suspicious call, text, or message from someone claiming to be from Affirm.
+You receive temporary passcodes you did not request, especially if someone asks you to share this passcode.
+
+Report security bugs
+Found a security vulnerability? Please report your findings through our bug bounty platform, HackerOne.
+
+Trust in Affirm
+Learn about Affirm's approach to security here. You can view our Privacy Notice here.
+ 

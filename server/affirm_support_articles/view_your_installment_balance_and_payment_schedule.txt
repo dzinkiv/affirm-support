@@ -1,0 +1,13 @@
+View your installment balance and payment schedule
+
+You can see your balance at affirm.ca or in the Affirm app:
+  At affirm.ca:
+  Sign in to your Affirm account.
+Navigate to Loans.
+Select the loan.
+See the loan schedule and remaining balance. 
+  In the Affirm app:
+  Download the app for free from the App Store (iOS).
+Sign in to your account.
+Tap Manage at the bottom of the screen.
+See the purchase balance at the top of the screen, or tap a purchase to see its remaining balance and other details.

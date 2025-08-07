@@ -1,0 +1,28 @@
+Dispute a purchase
+
+We’re sorry that you’re having trouble with a purchase you made with Shop Pay Installments. The best place to start is with the store you made your purchase from. Contact them to get information about your order, cancel your order, start a return, or to discuss your other available options.
+
+How to start your dispute
+Log in to the Affirm website with the same mobile number that you use for Shop Pay. (Note: Disputes are currently available only through the affirm.ca website and not through the app.)
+Click Manage. 
+Click on the loan you’d like to dispute and navigate to the Details section.
+You will then be asked a series of questions to gather information about your purchase and your dispute. We’ll ask you to upload evidence about your specific dispute. Note: Disputes cannot be submitted for loans that are still in a “processing” state.
+Complete all required fields and provide as much detail as possible to help our team resolve the issue faster.
+Depending on the reason for the dispute, we may not be able to proceed with the dispute without the required evidence.
+When you’re finished filling out all fields and uploading evidence, click submit.
+  After the dispute is submitted
+
+An investigation will be initiated once you have provided any required supporting documentation (if applicable) for your claim.
+After reviewing the evidence, we'll notify you of a decision within two complete billing cycles.
+While your purchase is in dispute, you can’t make payments on your loan. As always, we don't charge late fees so you won't end up paying more than you already agreed to upfront.
+  After the dispute is resolved
+
+If the dispute is resolved in your favor, we'll refund the amount confirmed by the store. Depending on the amount of the refund and whether you have made any payments, you may be entitled to a refund of interest paid.
+If we resolve the dispute in the store’s favor, then your original payment schedule will still apply. This means that any payments that were due during the dispute period will be due immediately.
+
+That’s it! Affirm will keep you updated on the status of your dispute, but you can always check by visiting our secure messaging portal:
+  Visit the Affirm Help Centre.
+Select "Sign In" at the top right.
+Enter your phone number and verification code.
+Click the Account icon at the top right and select Resolution Center. (Note: The Resolution Center option will only appear when you have an open case.)
+Select from your list of cases in the Cases column on the left-hand side of the screen. A case status button will show the current status for each case.
