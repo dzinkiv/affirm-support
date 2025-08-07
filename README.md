@@ -10,6 +10,11 @@ A customer support website for Affirm utilizing LLMs for a personalized issue re
 > _Note: This project was inspired by concepts from the [LangChain: Chat with Your Data](https://learn.deeplearning.ai/courses/langchain-chat-with-your-data) course on DeepLearning.ai_
 
 ### Running Backend
+#### Add OpenAI API key to .env
+```
+OPENAI_API_KEY=<sk-proj-your-api-key>
+```
+
 #### Create virtual environment
 ```
 python3 -m venv venv
