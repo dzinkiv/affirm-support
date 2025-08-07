@@ -53,17 +53,3 @@ chain = (
 def query_agent(query: str) -> str:
     response = chain.invoke(query)
     return response
-
-
-# # Interactive loop
-# try:
-#     print("How can I help you?")
-#     while True:
-#         query = input()
-#         if query.lower() == "/exit":
-#             break
-
-#         response = chain.invoke(query)
-#         print("\nAnswer:", response)
-# except KeyboardInterrupt:
-#     print("Exiting...")
