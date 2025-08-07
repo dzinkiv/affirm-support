@@ -1,6 +1,9 @@
 # affirm-support
 A customer support website for Affirm utilizing LLMs for a personalized issue resolution. This is a Retrieval-Augmented Generation (RAG) application, leveraging LLMs and Affirm's support docs to provide accurate, context-aware support responses.
 
+## Demo
+![UI Demo](https://github.com/dzinkiv/affirm-support/blob/ee624bdbd96d205b0a94a60bca2497de23554af0/resources/ui_demo.gif?raw=true)
+
 ## Diagram
 ![Affirm Support Flow Diagram](resources/flow.jpeg)
 > _Note: This project was inspired by concepts from the [LangChain: Chat with Your Data](https://learn.deeplearning.ai/courses/langchain-chat-with-your-data) course on DeepLearning.ai_
